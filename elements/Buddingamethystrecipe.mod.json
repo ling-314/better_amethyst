@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "better_amethyst",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "Blocks.AMETHYST_BLOCK"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.BUDDING_AMETHYST"
+    },
+    "name": "budding_amethyst",
+    "namespace": "mod"
+  }
+}

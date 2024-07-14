@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "better_amethyst",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "better_amethyst:amethysthelmet_chestplate",
+    "count": 1
+  }
+}

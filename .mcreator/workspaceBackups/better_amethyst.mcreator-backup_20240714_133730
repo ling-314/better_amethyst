@@ -1,0 +1,257 @@
+{
+  "mod_elements": [
+    {
+      "name": "Amethystsword",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystsword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/betteramethyst/item/AmethystswordItem.java",
+          "src/main/resources/assets/better_amethyst/models/item/amethystsword.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystpickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/better_amethyst/models/item/amethystpickaxe.json",
+          "src/main/java/net/mcreator/betteramethyst/item/AmethystpickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Amethystaxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/betteramethyst/item/AmethystaxeItem.java",
+          "src/main/resources/assets/better_amethyst/models/item/amethystaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystshovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/betteramethyst/item/AmethystshovelItem.java",
+          "src/main/resources/assets/better_amethyst/models/item/amethystshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethysthoe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethysthoe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/betteramethyst/item/AmethysthoeItem.java",
+          "src/main/resources/assets/better_amethyst/models/item/amethysthoe.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethysthelmet",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethysthelmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/better_amethyst/models/item/amethysthelmet_boots.json",
+          "src/main/resources/assets/better_amethyst/models/item/amethysthelmet_helmet.json",
+          "src/main/java/net/mcreator/betteramethyst/item/AmethysthelmetItem.java",
+          "src/main/resources/assets/better_amethyst/models/item/amethysthelmet_chestplate.json",
+          "src/main/resources/assets/better_amethyst/models/item/amethysthelmet_leggings.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystswordrecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystswordrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystpickaxerecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystpickaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystaxerecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_axe.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystshovelrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystshovelrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_shovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethysthoerecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethysthoerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_hoe.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystshardrecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystshardrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_shard.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethysthelmetrecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethysthelmetrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_helmet.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystchestplaterecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystchestplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystleggingsrecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystleggingsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_leggings.json"
+        ]
+      }
+    },
+    {
+      "name": "Amethystbootsrecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystbootsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_amethyst/recipes/amethyst_boots.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "item.better_amethyst.amethystpickaxe": "紫水晶镐",
+      "item.better_amethyst.amethysthelmet_leggings": "紫水晶护腿",
+      "item.better_amethyst.amethysthelmet_chestplate": "紫水晶胸甲",
+      "item.better_amethyst.amethystsword": "紫水晶剑",
+      "item.better_amethyst.amethystaxe": "紫水晶斧",
+      "item.better_amethyst.amethysthoe": "紫水晶锄",
+      "item.better_amethyst.amethystshovel": "紫水晶锹",
+      "item.better_amethyst.amethysthelmet_boots": "紫水晶靴子",
+      "item.better_amethyst.amethysthelmet_helmet": "紫水晶头盔"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "better_amethyst",
+    "modName": "更好的紫水晶",
+    "version": "1.0.0",
+    "author": "ling-314, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.betteramethyst"
+  },
+  "mcreatorVersion": 202400118518
+}

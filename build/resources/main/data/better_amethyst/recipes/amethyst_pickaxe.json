@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "better_amethyst",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "better_amethyst:amethystpickaxe",
+    "count": 1
+  }
+}
